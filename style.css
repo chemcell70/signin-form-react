@@ -1,0 +1,33 @@
+h1, p {
+  font-family: Lato;
+  text-align:center;
+}
+
+form{
+
+margin: 50px;
+text-align: center;
+
+}
+
+#container{
+background-color: aqua;
+margin: 50px;
+border-style: solid;
+border-width: 2px;
+border-radius: 5px;
+
+}
+
+input{
+
+width:100%;
+border-style: solid;
+border-width: 1px;
+border-radius: 5px;
+
+}
+
+#listers{
+  background-color: red;
+}
